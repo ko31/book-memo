@@ -15,3 +15,8 @@ FileMakerで作った子ども向けの読書記録アプリです。
 * iPhone 6s
 * FileMaker Go 14
 
+## 注意
+
+* 本の情報取得には[楽天ウェブサービスAPI](https://webservice.rakuten.co.jp/api/bookstotalsearch/) を利用しているのでインターネットに繋がっていないと使えません。
+* スクリプト内の楽天ウェブサービスAPIのアプリケーションIDは自分のものに変更してください。
+
